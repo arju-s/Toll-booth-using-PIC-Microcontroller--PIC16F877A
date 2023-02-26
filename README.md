@@ -1,1 +1,1 @@
-# Toll-booth-using-PIC-Microcontroller-PIC16F877A-
+Simplified procedure for passengers to pay toll at toll booths using Pic 16F877A
